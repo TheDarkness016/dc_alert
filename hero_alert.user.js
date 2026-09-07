@@ -6,8 +6,8 @@
 // @author       Private
 // @match        https://tempest.margonem.pl/
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/TWÓJ_PROFIL/TWOJE_REPO/main/klanowy-alert.user.js
-// @downloadURL  https://raw.githubusercontent.com/TWÓJ_PROFIL/TWOJE_REPO/main/klanowy-alert.user.js
+// @updateURL    https://github.com/TheDarkness016/dc_alert/raw/refs/heads/main/hero_alert.user.js
+// @downloadURL  https://github.com/TheDarkness016/dc_alert/raw/refs/heads/main/hero_alert.user.js
 // ==/UserScript==
 
 const MEMORY_MANAGER = {
