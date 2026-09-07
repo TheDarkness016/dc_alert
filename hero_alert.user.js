@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         DCMonsterAlert (Wersja na Nazwy + Tytany)
+// @name         DCMonsterAlert
 // @namespace    http://tampermonkey.net/
 // @version      1.5-final
-// @description  Wersja prywatna. Wykrywa herosów po nazwie z podziałem na kanały!
+// @description  Wersja prywatna.
 // @author       Private
 // @match        https://tempest.margonem.pl/
 // @grant        none
