@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DCMonsterAlert
 // @namespace    http://tampermonkey.net/
-// @version      1.5-final
+// @version      1.6
 // @description  Wersja prywatna.
 // @author       Private
 // @match        https://tempest.margonem.pl/
